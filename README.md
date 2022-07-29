@@ -1,1 +1,3 @@
-# .github
+# 🧦 My Sponsors
+
+![Sponsors](./sponsors.png)
